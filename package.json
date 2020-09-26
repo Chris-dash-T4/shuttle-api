@@ -18,6 +18,7 @@
   "homepage": "https://github.com/Chris-dash-T4/shuttle-api#readme",
   "dependencies": {
     "axios": "^0.20.0",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "request": "^2.88.2"
   }
 }
