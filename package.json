@@ -1,0 +1,23 @@
+{
+  "name": "scotty_shuttle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sample.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chris-dash-T4/shuttle-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chris-dash-T4/shuttle-api/issues"
+  },
+  "homepage": "https://github.com/Chris-dash-T4/shuttle-api#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "express": "^4.17.1"
+  }
+}
